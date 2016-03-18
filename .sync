@@ -1,0 +1,2 @@
+#!/bin/bash
+rsync --exclude=".git" --exclude=".idea" --omit-dir-times -arve "ssh -i ../../npl/igor.lyubimov.pem" . igor.lyubimov@azure-cluster.newprolab.com:~/scripts
