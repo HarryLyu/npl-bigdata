@@ -1,5 +1,5 @@
 #!/usr/bin/python
-#import happybase
+import happybase
 #import sys
 
 table_name = 'igor.lyubimov'

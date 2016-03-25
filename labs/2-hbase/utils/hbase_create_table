@@ -1,1 +1,1 @@
-create 'igor.lyubimov', {NAME => 'data:url', VERSIONS => 4096}
+create 'igor.lyubimov.lab3', {NAME => 'categories', VERSIONS => 4096}

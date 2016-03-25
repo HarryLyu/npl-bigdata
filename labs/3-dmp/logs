@@ -1,0 +1,136 @@
+igor.lyubimov@ip-10-63-0-70:~$ hadoop fs -cat /user/igor.lyubimov/3/* | grep cars.ru
+213915405199|used-cars.ru	13
+221476619999|used-cars.ru	4
+300922842915|used-cars.ru	22
+igor.lyubimov@ip-10-63-0-70:~$ hadoop fs -cat /user/igor.lyubimov/3/* | grep avto-russia.ru
+igor.lyubimov@ip-10-63-0-70:~$ hadoop fs -cat /user/igor.lyubimov/3/* | grep bmwclub.ru
+205654733359|bmwclub.ru	1
+271085632516|bmwclub.ru	1
+279854853988|bmwclub.ru	1
+292962558884|bmwclub.ru	1
+194833160323|bmwclub.ru	1
+214309487375|bmwclub.ru	1
+226878155902|bmwclub.ru	1
+124267366692|bmwclub.ru	2
+310368397215|bmwclub.ru	1
+223901937764|bmwclub.ru	1
+318838628228|bmwclub.ru	1
+91423022260|bmwclub.ru	1
+igor.lyubimov@ip-10-63-0-70:~$ hadoop fs -cat /user/igor.lyubimov/3/* | grep fastpic.ru
+igor.lyubimov@ip-10-63-0-70:~$ hadoop fs -cat /user/igor.lyubimov/3/* | grep fotoshkola.net
+237972799331|fotoshkola.net	1
+226808025262|fotoshkola.net	1
+igor.lyubimov@ip-10-63-0-70:~$ hadoop fs -cat /user/igor.lyubimov/3/* | grep bigpicture.ru
+igor.lyubimov@ip-10-63-0-70:~$ hadoop fs -cat /user/igor.lyubimov/3/* | grep nirvana.fm
+igor.lyubimov@ip-10-63-0-70:~$ hadoop fs -cat /user/igor.lyubimov/3/* | grep rusradio.ru
+igor.lyubimov@ip-10-63-0-70:~$ hadoop fs -cat /user/igor.lyubimov/3/* | grep pop-music.ru
+igor.lyubimov@ip-10-63-0-70:~$ hadoop fs -cat /user/igor.lyubimov/3/* | grep snowmobile.ru
+286960066367|snowmobile.ru	1
+210850907790|snowmobile.ru	4
+227600307326|snowmobile.ru	1
+267508829599|snowmobile.ru	2
+183351235934|snowmobile.ru	2
+299742333551|snowmobile.ru	1
+229634220543|snowmobile.ru	1
+igor.lyubimov@ip-10-63-0-70:~$ hadoop fs -cat /user/igor.lyubimov/3/* | grep nastroisam.ru
+igor.lyubimov@ip-10-63-0-70:~$ hadoop fs -cat /user/igor.lyubimov/3/* | grep mobyware.ru
+136663766606|mobyware.ru	63
+223386014959|mobyware.ru	49
+229659954094|mobyware.ru	50
+278060761076|mobyware.ru	54
+278826270211|mobyware.ru	58
+300936839555|mobyware.ru	49
+300965624227|mobyware.ru	49
+300971611123|mobyware.ru	60
+300992123535|mobyware.ru	51
+308893747300|mobyware.ru	45
+310174636063|mobyware.ru	53
+310211012511|mobyware.ru	48
+310402671598|mobyware.ru	1
+310469800047|mobyware.ru	44
+312749783460|mobyware.ru	54
+316649962350|mobyware.ru	67
+316886813246|mobyware.ru	45
+317040486814|mobyware.ru	54
+317104969518|mobyware.ru	47
+317236547246|mobyware.ru	57
+317301510478|mobyware.ru	44
+318878754292|mobyware.ru	43
+319235759460|mobyware.ru	61
+319336132900|mobyware.ru	59
+44133136933|mobyware.ru	63
+6797813157|mobyware.ru	46
+96209680707|mobyware.ru	1
+152110013423|mobyware.ru	58
+197992270452|mobyware.ru	49
+209952202798|mobyware.ru	62
+216566260755|mobyware.ru	65
+224585129524|mobyware.ru	53
+236325370275|mobyware.ru	51
+2625477365|mobyware.ru	59
+272918088659|mobyware.ru	45
+273723712223|mobyware.ru	51
+284187913523|mobyware.ru	56
+287943923587|mobyware.ru	4
+295578896644|mobyware.ru	2
+296519730483|mobyware.ru	45
+298451057587|mobyware.ru	43
+299086985278|mobyware.ru	57
+301116799251|mobyware.ru	50
+306467435263|mobyware.ru	61
+310277826063|mobyware.ru	58
+312651800436|mobyware.ru	44
+314941892398|mobyware.ru	46
+317105311582|mobyware.ru	44
+318910322916|mobyware.ru	37
+98780815278|mobyware.ru	48
+120089112820|mobyware.ru	59
+132361593395|mobyware.ru	66
+159864189971|mobyware.ru	47
+181268992291|mobyware.ru	52
+227055485615|mobyware.ru	46
+238132164190|mobyware.ru	47
+250433891876|mobyware.ru	45
+289115495011|mobyware.ru	46
+295127756879|mobyware.ru	5
+297042421043|mobyware.ru	53
+299065916131|mobyware.ru	60
+300781513587|mobyware.ru	56
+301112393827|mobyware.ru	51
+310063098527|mobyware.ru	52
+310261528879|mobyware.ru	49
+310320978591|mobyware.ru	49
+313834286020|mobyware.ru	44
+315950722990|mobyware.ru	52
+316263744350|mobyware.ru	43
+319221746548|mobyware.ru	45
+319520289508|mobyware.ru	49
+32085287285|mobyware.ru	45
+249317765124|mobyware.ru	34
+255770711983|mobyware.ru	43
+277499964095|mobyware.ru	4
+278224458115|mobyware.ru	65
+279568567134|mobyware.ru	49
+295356808900|mobyware.ru	3
+295681314547|mobyware.ru	45
+296567490579|mobyware.ru	46
+297372485039|mobyware.ru	58
+297618277055|mobyware.ru	55
+301037766435|mobyware.ru	43
+304685433135|mobyware.ru	51
+308875845140|mobyware.ru	5
+309910967951|mobyware.ru	56
+310026490895|mobyware.ru	42
+310102875903|mobyware.ru	68
+310111456607|mobyware.ru	61
+310142552143|mobyware.ru	58
+310401830511|mobyware.ru	45
+310407556271|mobyware.ru	59
+311949345022|mobyware.ru	42
+314364753294|mobyware.ru	43
+316514267790|mobyware.ru	46
+317108261150|mobyware.ru	51
+317123982926|mobyware.ru	44
+317322546910|mobyware.ru	44
+319039467012|mobyware.ru	53
+319340403060|mobyware.ru	51
